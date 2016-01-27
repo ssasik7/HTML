@@ -8,6 +8,19 @@ h6{
 		text-align: center;
 	}
 
+a#a01{
+	background-color: blue;
+	color: white;
+	padding: 15px 25px;
+	border-radius: 4px 30px;
+	text-decoration: none;
+}
+
+a#a01:hover{
+	background-color: orange;
+	color: black;
+}
+
 #rcolor{
 	color: red;
 }
@@ -18,7 +31,7 @@ h6{
 
 a:hover{
 	color:black;
-	font-size: 30px;
+	background-color: red;
 }
 
 a:visited{
