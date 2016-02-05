@@ -8,14 +8,16 @@ body{
 }
 
 p.bordered{
-	border-style: double;
-	border-width: 3px;
+	border-style: ridge;
+	border-width: 10px;
+	border-color: green;
 	text-align: center;
-	background-color: #c6538c;
-	color: white;
+	/*background-color: #c6538c;*/
+	color: black;
 	font-family: calibri;
 	
-	margin-right: 800px
+	/*margin-right: 800px*/
+	padding-top:10px;
 }
 
 p.bordered:hover{
