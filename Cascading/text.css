@@ -1,0 +1,21 @@
+div{
+	border: 2px solid red;
+	text-align: justify;
+	background-color: #EEEEEE
+}
+
+h2{
+	text-align: center;
+	color: green;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+p{
+	text-indent: 50px;
+	letter-spacing: 10px;
+	word-spacing: 5px;
+	line-height: 20px;
+	font-size: 20px;
+	text-transform: capitalize;
+}
