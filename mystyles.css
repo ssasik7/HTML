@@ -1,0 +1,25 @@
+body{
+  background-color: grey;
+}
+
+h1{
+  color: red;
+  font-family: cursive;
+  align-items: center;
+}
+
+div#mainDiv{
+  background-color: white;
+}
+
+h3,h4,h5{
+  color: blue;
+}
+
+.mainclass{
+  margin-left: 100px;
+}
+
+.mainColor{
+  color:white;
+}
